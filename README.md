@@ -26,6 +26,13 @@ A centralized repository which includes all my important projects being develope
     <td class="tg-zd5i"><h3>3-PortWebsite</h3></td>
     <td class="tg-zd5i">First HTML portfolio website developed.</td>
   </tr>
+   <tr>
+    <td class="tg-zd5i"><h3>4-Invoice Predictions - Times series</h3></td>
+    <td class="tg-zd5i">All Sales Inc.⚡️, a family-owned company specialised in online retail commerce had conducted a thorough market analysis using business rules, and now they pretend to expand company's capital.
+However to go foward, they need to know what the future value of their company could be expressed by their expected profits and they want you to help address this issue. The goal is to predict their daily profit over the next three months.
+The company has provided a representative sample of sales from the past year (December/2022 until December/2023), to construct a suitable metric to carry out the predictions, and selecting predictive model that best suits the objective.
+The project shows the most relevant aspects related to the evolution of All Sales Inc.⚡ profits during the last fiscal year and some profit predictions for the next quarter (90 days since the last reported day), usinf models like the <strong>Addictive Model, ARIMA Model, Addictive and Multiplicative using Prophet library</strong>.</td>
+  </tr>
 </tbody>
 </table>
 
